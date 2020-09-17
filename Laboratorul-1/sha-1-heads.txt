@@ -1,11 +1,10 @@
-efd758d3b4b4b78ba0d31d8b8b5ac0b730c1fbfe refs/heads/c
-f23ea3b3514569d9700479985eb11ea8d25f7e7f refs/heads/c#
-1accaea6663c399ef2a14a0ef20ea82761a8966b refs/heads/c++
-996321e9db0c897a8c6358aca9595e18ffab17be refs/heads/css
-f631ac7d6ae00ff4189ad8f4b357a58387d0bfbd refs/heads/java
-bed34cb360d2c23809d992870b9eb7695512b343 refs/heads/javascript
-63042e00f947a3d01fa865cdd3aca635b7ea00cb refs/heads/master
-3f510e9d2d7aa13f353f325920272b04abbb57e0 refs/heads/pascal
-557f8b841a7c4dcd2a9eb1e521d5506f69ec753f refs/heads/php
-a9eb3b012d279dead8761a9ff5a51989f95bb4fb refs/heads/python
-8c344a83f3729bf7b3fe6b7a474bb45801913692 refs/heads/ruby
+c : efd758d3b4b4b78ba0d31d8b8b5ac0b730c1fbfe 
+c# : f23ea3b3514569d9700479985eb11ea8d25f7e7f
+c++ : 1accaea6663c399ef2a14a0ef20ea82761a8966b 
+css :996321e9db0c897a8c6358aca9595e18ffab17be 
+java: f631ac7d6ae00ff4189ad8f4b357a58387d0bfbd 
+javascript: bed34cb360d2c23809d992870b9eb7695512b343 
+pascal : 3f510e9d2d7aa13f353f325920272b04abbb57e0 
+php : 557f8b841a7c4dcd2a9eb1e521d5506f69ec753f 
+python : a9eb3b012d279dead8761a9ff5a51989f95bb4fb 
+ruby : 8c344a83f3729bf7b3fe6b7a474bb45801913692 
